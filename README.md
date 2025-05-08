@@ -1,6 +1,6 @@
 # Proto-Ar
 
-Proto-Ar é um projeto de exemplo que utiliza Node.js, Express e PostgreSQL para criar uma aplicação web com funcionalidades de login, exibição de dados e gráficos interativos.
+Proto-Ar é um projeto de exemplo que utiliza Node.js, Express e PostgreSQL para criar uma aplicação web com funcionalidades de login, exibição de dados e gráficos interativos. Funcionalidade com arduino para criacao de um dispositivo no qual ligava e desligava o ar condicionado automaticamente ou quando atingia certa determinada de temperatura 
 
 ## Estrutura do Projeto
 
